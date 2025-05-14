@@ -132,7 +132,6 @@ include_directories(CGL/include)
 # Kayvon Fatahalian, Keenan Crane,
 # Sky Gao, Bryce Summers, Michael Choquette.
 cmake_minimum_required(VERSION 2.8)
-
 # Application source
 set(APPLICATION_SOURCE
     quad_test.cpp
