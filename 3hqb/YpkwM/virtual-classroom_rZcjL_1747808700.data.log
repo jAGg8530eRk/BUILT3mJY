@@ -7,7 +7,6 @@
 6 silly lifecycle virtual-classroom@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle virtual-classroom@1.0.0~start: virtual-classroom@1.0.0
 8 verbose lifecycle virtual-classroom@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle virtual-classroom@1.0.0~start: PATH: /usr/lib/node_modules/npm/bin/node-gyp-bin:/mnt/344608D946089DAC/Projects/Academic/Software Engg./Virtual-Classroom/node_modules/.bin:/home/pvgupta24/xiki-project/bin:/home/pvgupta24/xiki-project/bin:/home/pvgupta24/bin:/home/pvgupta24/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/cuda/bin:/home/pvgupta24/Eta
 10 verbose lifecycle virtual-classroom@1.0.0~start: CWD: /mnt/344608D946089DAC/Projects/Academic/Software Engg./Virtual-Classroom
 11 silly lifecycle virtual-classroom@1.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle virtual-classroom@1.0.0~start: Returned: code: 1  signal: null
