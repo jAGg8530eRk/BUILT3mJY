@@ -10,7 +10,6 @@
 10 verbose lifecycle virtual-classroom@1.0.0~start: CWD: /mnt/344608D946089DAC/Projects/Academic/Software Engg./Virtual-Classroom
 11 silly lifecycle virtual-classroom@1.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle virtual-classroom@1.0.0~start: Returned: code: 1  signal: null
-13 info lifecycle virtual-classroom@1.0.0~start: Failed to exec start script
 14 verbose stack Error: virtual-classroom@1.0.0 start: `node ./bin/www`
 14 verbose stack Exit status 1
 14 verbose stack     at EventEmitter.<anonymous> (/usr/lib/node_modules/npm/lib/utils/lifecycle.js:255:16)
