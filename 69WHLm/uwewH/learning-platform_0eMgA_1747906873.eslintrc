@@ -229,7 +229,6 @@
         'jsdoc/check-alignment': 1, // Recommended.
         'jsdoc/check-param-names': 'error',
         'jsdoc/check-property-names': 'error',
-        'jsdoc/empty-tags': 'error',
         'jsdoc/implements-on-classes': 'error',
         'jsdoc/multiline-blocks': 'error',
         'jsdoc/require-jsdoc': 'error',
