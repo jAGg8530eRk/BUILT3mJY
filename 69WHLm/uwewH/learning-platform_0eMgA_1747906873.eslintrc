@@ -158,7 +158,6 @@
     'promise/avoid-new': 'warn',
 
     // === Deprecations ===
-    "no-restricted-properties": ['warn', {
         'object': 'M',
         'property': 'str',
         'message': 'Use "core/str" module or M.util.get_string()'
