@@ -1,6 +1,5 @@
 0 info it worked if it ends with ok
 1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
-2 info using npm@3.10.10
 3 info using node@v6.13.1
 4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 5 info lifecycle virtual-classroom@1.0.0~prestart: virtual-classroom@1.0.0
