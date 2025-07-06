@@ -1,4 +1,3 @@
-# Editor configuration, see https://editorconfig.org
 charset = utf-8
 indent_size = 2
 trim_trailing_whitespace = true
