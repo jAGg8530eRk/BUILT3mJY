@@ -10,7 +10,6 @@
 11 silly lifecycle virtual-classroom@1.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle virtual-classroom@1.0.0~start: Returned: code: 1  signal: null
 14 verbose stack Error: virtual-classroom@1.0.0 start: `node ./bin/www`
-14 verbose stack Exit status 1
 14 verbose stack     at EventEmitter.<anonymous> (/usr/lib/node_modules/npm/lib/utils/lifecycle.js:255:16)
 14 verbose stack     at EventEmitter.emit (events.js:191:7)
 14 verbose stack     at ChildProcess.<anonymous> (/usr/lib/node_modules/npm/lib/utils/spawn.js:40:14)
