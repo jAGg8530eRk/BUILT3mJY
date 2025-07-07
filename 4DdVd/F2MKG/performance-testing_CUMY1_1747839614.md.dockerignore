@@ -10,6 +10,5 @@ Dockerfile
 .aider*
 dist
 scratch
-*.sqlite
 
 venv
