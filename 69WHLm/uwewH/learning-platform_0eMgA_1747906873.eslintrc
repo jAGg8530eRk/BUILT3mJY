@@ -211,7 +211,6 @@
         'no-unused-expressions': 'off',
         // Enable all of the babel version of these rules.
         '@babel/new-cap': ['warn', { 'properties': false }],
-        // Not using this rule for the time being because it isn't
         // compatible with jQuery and ES6.
         '@babel/no-invalid-this': 'off',
         '@babel/object-curly-spacing': 'warn',
