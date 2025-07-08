@@ -7,7 +7,6 @@ Dockerfile
 *.log
 .DS_Store
 .aider*
-dist
 scratch
 
 venv
