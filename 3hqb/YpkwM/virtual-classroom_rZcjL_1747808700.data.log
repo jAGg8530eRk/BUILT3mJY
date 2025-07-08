@@ -30,7 +30,6 @@
 23 error     node ./bin/www
 23 error You can get information on how to open an issue for this project with:
 23 error     npm bugs virtual-classroom
-23 error Or if that isn't available, you can get their info via:
 23 error     npm owner ls virtual-classroom
 23 error There is likely additional logging output above.
 24 verbose exit [ 1, true ]
