@@ -107,7 +107,6 @@
     'max-params': 'off',
     'max-statements': 'off',
     'max-statements-per-line': ['warn', { max: 2 }],
-    'new-cap': ['warn', { 'properties': false }],
     'new-parens': 'warn',
     'newline-per-chained-call': 'off',
     'no-array-constructor': 'off',
