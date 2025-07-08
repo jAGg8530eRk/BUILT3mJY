@@ -69,7 +69,6 @@
     'no-script-url': 'error',
     'no-self-compare': 'error',
     'no-sequences': 'warn',
-    'no-throw-literal': 'warn',
     'no-unmodified-loop-condition': 'error',
     'no-unused-expressions': 'error',
     'no-useless-call': 'warn',
