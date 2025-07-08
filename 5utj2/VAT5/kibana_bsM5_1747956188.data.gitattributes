@@ -1,2 +1,1 @@
 # this is necessary for prettier's linting
-*.tsx text eol=lf
