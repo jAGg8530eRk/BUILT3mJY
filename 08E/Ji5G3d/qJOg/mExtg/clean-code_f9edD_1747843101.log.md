@@ -44,7 +44,6 @@ Unfortunately, you will run into two issues:
 import tiktoken
 enc = tiktoken.get_encoding("cl100k_base") # this is the GPT-4 tokenizer
 ids = enc.encode("<|endoftext|>hello world", allowed_special="all")
-```
 
 Without `allowed_special` tiktoken will error.
 
