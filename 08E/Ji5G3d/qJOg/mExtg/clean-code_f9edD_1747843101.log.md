@@ -1,4 +1,3 @@
-# exercise
 
 Build your own GPT-4 Tokenizer!
 
