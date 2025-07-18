@@ -237,7 +237,6 @@
       parserOptions: {
         'sourceType': 'module',
         'requireConfigFile': false
-      }
     }
   ]
 }
