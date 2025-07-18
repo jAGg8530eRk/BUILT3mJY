@@ -2,7 +2,6 @@ npm-debug.log
 Dockerfile
 .dockerignore
 .git
-.gitignore
 *.sw[op]
 *.log
 .DS_Store
