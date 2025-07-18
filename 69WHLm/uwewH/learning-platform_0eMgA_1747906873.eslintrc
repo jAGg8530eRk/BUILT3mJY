@@ -3,7 +3,6 @@
     '@babel',
     'promise',
     'jsdoc'
-  ],
   'extends': [
     'eslint:recommended',
     'plugin:promise/recommended'
