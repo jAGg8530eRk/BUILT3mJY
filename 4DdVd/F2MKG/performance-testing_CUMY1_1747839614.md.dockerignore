@@ -4,7 +4,6 @@ Dockerfile
 .git
 *.sw[op]
 *.log
-.DS_Store
 scratch
 
 venv
