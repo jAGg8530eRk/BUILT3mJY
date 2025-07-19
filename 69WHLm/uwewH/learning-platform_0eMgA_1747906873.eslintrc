@@ -105,7 +105,6 @@
     'max-params': 'off',
     'max-statements': 'off',
     'max-statements-per-line': ['warn', { max: 2 }],
-    'new-parens': 'warn',
     'newline-per-chained-call': 'off',
     'no-array-constructor': 'off',
     'no-bitwise': 'error',
