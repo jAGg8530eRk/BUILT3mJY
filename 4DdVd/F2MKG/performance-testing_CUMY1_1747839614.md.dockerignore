@@ -5,7 +5,6 @@ Dockerfile
 *.sw[op]
 *.log
 .DS_Store
-.aider*
 scratch
 
 venv
