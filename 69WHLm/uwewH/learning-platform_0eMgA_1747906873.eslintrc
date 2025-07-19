@@ -196,7 +196,6 @@
       parser: '@babel/eslint-parser',
       // Check AMD with some slightly stricter rules.
       rules: {
-        'no-implicit-globals': 'error',
         // Disable all of the rules that have babel versions.
         'new-cap': 'off',
         // Not using this rule for the time being because it isn't
