@@ -42,7 +42,6 @@ enc = tiktoken.get_encoding("cl100k_base") # this is the GPT-4 tokenizer
 ids = enc.encode("<|endoftext|>hello world", allowed_special="all")
 
 Without `allowed_special` tiktoken will error.
-
 ### Step 5
 
 If you've made it this far, you're now a pro at LLM Tokenization! Sadly, you're not exactly done yet because a lot of LLMs outside of OpenAI (e.g. Llama, Mistral) use [sentencepiece](https://github.com/google/sentencepiece) instead. Primary difference being that sentencepiece runs BPE directly on Unicode code points instead of on UTF-8 encoded bytes. Feel free to explore sentencepiece on your own (good luck, it's not too pretty), and stretch goal if you really experience and suffer from the burden of time, re-write your BPE to be on Unicode code points and match the Llama 2 tokenizer.
