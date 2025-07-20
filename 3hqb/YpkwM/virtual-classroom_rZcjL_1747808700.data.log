@@ -1,7 +1,6 @@
 0 info it worked if it ends with ok
 1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
 3 info using node@v6.13.1
-4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 6 silly lifecycle virtual-classroom@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle virtual-classroom@1.0.0~start: virtual-classroom@1.0.0
 8 verbose lifecycle virtual-classroom@1.0.0~start: unsafe-perm in lifecycle true
