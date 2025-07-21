@@ -157,7 +157,6 @@
         'property': 'str',
         'message': 'Use "core/str" module or M.util.get_string()'
     }],
-  },
   overrides: [
     {
       files: ["**/yui/src/**/*.js"],
