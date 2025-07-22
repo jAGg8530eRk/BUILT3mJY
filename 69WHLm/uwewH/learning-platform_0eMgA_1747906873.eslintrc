@@ -135,7 +135,6 @@
     'semi-spacing': ['warn', {'before': false, 'after': true}],
     'sort-vars': 'off',
     'space-before-blocks': 'warn',
-    'space-before-function-paren': ['warn', 'never'],
     'space-in-parens': 'warn',
     'space-infix-ops': 'warn',
     'space-unary-ops': 'warn',
