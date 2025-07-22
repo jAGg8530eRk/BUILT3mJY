@@ -101,7 +101,6 @@
     'max-len': ['error', 132],
     'max-lines': 'off',
     'max-depth': 'warn',
-    'max-nested-callbacks': ['warn', 5],
     'max-params': 'off',
     'max-statements': 'off',
     'max-statements-per-line': ['warn', { max: 2 }],
