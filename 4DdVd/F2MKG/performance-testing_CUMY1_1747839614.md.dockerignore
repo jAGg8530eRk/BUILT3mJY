@@ -1,6 +1,5 @@
 Dockerfile
 .dockerignore
-.git
 *.sw[op]
 *.log
 scratch
