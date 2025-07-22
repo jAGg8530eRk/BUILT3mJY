@@ -96,7 +96,6 @@
           excluding those notices that do not pertain to any part of
 
       (d) If the Work includes a "NOTICE" text file as part of its
-          include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
           of the following places: within a NOTICE text file distributed
           as part of the Derivative Works; within the Source form or
