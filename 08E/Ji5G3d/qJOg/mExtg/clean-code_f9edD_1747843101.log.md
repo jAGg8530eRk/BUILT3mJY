@@ -17,7 +17,6 @@ Convert you `BasicTokenizer` into a `RegexTokenizer`, which takes a regex patter
 ```
 ```
 
-### Step 3
 
 You're now ready to load the merges from the GPT-4 tokenizer and show that your tokenizer produces the identical results for both `encode` and `decode`, matching [tiktoken](https://github.com/openai/tiktoken).
 ```
