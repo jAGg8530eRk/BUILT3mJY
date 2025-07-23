@@ -1,7 +1,6 @@
 1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
 6 silly lifecycle virtual-classroom@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle virtual-classroom@1.0.0~start: virtual-classroom@1.0.0
-11 silly lifecycle virtual-classroom@1.0.0~start: Args: [ '-c', 'node ./bin/www' ]
 12 silly lifecycle virtual-classroom@1.0.0~start: Returned: code: 1  signal: null
 14 verbose stack Error: virtual-classroom@1.0.0 start: `node ./bin/www`
 14 verbose stack     at EventEmitter.emit (events.js:191:7)
