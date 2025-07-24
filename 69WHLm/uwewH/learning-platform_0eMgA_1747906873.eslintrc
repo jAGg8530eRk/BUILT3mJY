@@ -5,7 +5,6 @@
     'jsdoc'
     'eslint:recommended',
     'plugin:promise/recommended'
-  ],
   'env': {
     'browser': true,
     // Enable ES6+ features by default.
