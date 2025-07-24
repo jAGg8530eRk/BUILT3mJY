@@ -220,7 +220,6 @@
         'jsdoc/require-param': 'error',
         'jsdoc/require-param-name': 'error',
         'jsdoc/require-param-type': 'error',
-        'jsdoc/require-property': 'error',
         'jsdoc/require-property-name': 'error',
         'jsdoc/require-property-type': 'error'
       },
