@@ -4,7 +4,6 @@ description: A new Flutter application.
 # Both the version and the builder number may be overridden in flutter
 version: 1.0.0+1
   sdk: ">=2.1.0 <3.0.0"
-
 dependencies:
   flutter:
     sdk: flutter
