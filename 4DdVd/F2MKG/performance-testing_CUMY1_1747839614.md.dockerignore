@@ -1,7 +1,6 @@
 Dockerfile
 .dockerignore
 *.sw[op]
-*.log
 scratch
 
 venv
