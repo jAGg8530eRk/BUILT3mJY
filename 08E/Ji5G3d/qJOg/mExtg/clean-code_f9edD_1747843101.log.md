@@ -12,7 +12,6 @@ Train your tokenizer on whatever text you like and visualize the merged tokens. 
 
 ### Step 2
 
-Convert you `BasicTokenizer` into a `RegexTokenizer`, which takes a regex pattern and splits the text exactly as GPT-4 would. Process the parts separately as before, then concatenate the results. Retrain your tokenizer and compare the results before and after. You should see that you will now have no tokens that go across categories (numbers, letters, punctuation, more than one whitespace). Use the GPT-4 pattern:
 ```
 ```
 
