@@ -79,7 +79,6 @@ document.getElementById('loginForm').addEventListener('submit', async (event) =>
 ```python
 # 快速排序算法的Python实现
 def quicksort(arr):
-    if len(arr) <= 1:
         return arr
     pivot = arr[len(arr) // 2]
     left = [x for x in arr if x < pivot]
