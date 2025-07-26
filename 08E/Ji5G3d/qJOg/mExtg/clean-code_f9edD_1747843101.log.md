@@ -21,7 +21,6 @@ You're now ready to load the merges from the GPT-4 tokenizer and show that your 
 # match this
 import tiktoken
 enc = tiktoken.get_encoding("cl100k_base") # this is the GPT-4 tokenizer
-ids = enc.encode("hello world!!!? (안녕하세요!) lol123 😉")
 text = enc.decode(ids) # get the same text back
 ```
 Unfortunately, you will run into two issues:
