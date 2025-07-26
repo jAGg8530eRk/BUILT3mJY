@@ -13,7 +13,6 @@
     'es2020': true,
     'amd': true
   },
-  'globals': {
     'M': true,
     'Y': true
   },
