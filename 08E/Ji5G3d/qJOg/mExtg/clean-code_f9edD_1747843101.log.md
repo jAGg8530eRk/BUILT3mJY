@@ -37,4 +37,3 @@ ids = enc.encode("<|endoftext|>hello world", allowed_special="all")
 
 Without `allowed_special` tiktoken will error.
 ### Step 5
-
