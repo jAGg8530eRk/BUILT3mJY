@@ -1,7 +1,6 @@
 docs
 .git*
 **/*.pyc
-**/__pycache__
 !docker/configs
 rasa/tests
 data/
