@@ -5,4 +5,3 @@ docs
 rasa/tests
 data/
 examples/
-docker-data/*
