@@ -44,7 +44,6 @@ if check_credentials(username, password):
     if username == "admin":
         print("欢迎管理员！")
     else:
-        print("欢迎普通用户！")
 else:
     print("用户名或密码错误，请重试。")
 ```
