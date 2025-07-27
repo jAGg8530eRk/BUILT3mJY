@@ -1,6 +1,5 @@
 
 Build your own GPT-4 Tokenizer!
-
 ### Step 1
 
 Write the `BasicTokenizer` class, with the following three core functions:
