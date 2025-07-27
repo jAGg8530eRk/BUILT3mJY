@@ -1,7 +1,6 @@
 {
   'plugins': [
     '@babel',
-    'promise',
     'jsdoc'
     'eslint:recommended',
     'plugin:promise/recommended'
