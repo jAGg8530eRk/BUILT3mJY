@@ -19,7 +19,6 @@ You're now ready to load the merges from the GPT-4 tokenizer and show that your 
 # match this
 import tiktoken
 enc = tiktoken.get_encoding("cl100k_base") # this is the GPT-4 tokenizer
-```
 Unfortunately, you will run into two issues:
 
 2. Second, the GPT-4 tokenizer for some reason permutes its raw bytes. It stores this permutation in the first 256 elements of the mergeable ranks, so you can recover this byte shuffle relatively simply as `byte_shuffle = {i: enc._mergeable_ranks[bytes([i])] for i in range(256)}`. In both your encode and decode, you'll have to shuffle bytes around accordingly. If you're stuck, reference the minbpe/gpt4.py` file for hints.
