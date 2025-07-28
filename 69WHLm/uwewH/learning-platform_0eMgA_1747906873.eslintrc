@@ -72,7 +72,6 @@
     // === Variables ===
     'no-undef-init': 'error',
     'no-unused-vars': ['error', { 'caughtErrors': 'none' }],
-
     // === Stylistic Issues ===
     'array-bracket-spacing': 'warn',
     'block-spacing': 'warn',
