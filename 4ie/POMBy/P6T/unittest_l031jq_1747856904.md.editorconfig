@@ -30,7 +30,6 @@ def check_credentials(username, password):
         return True
     else:
 
-# 3. 根据校验结果进行相应操作
 if check_credentials(username, password):
     print("登录成功！")
     # 校验是否为管理员
