@@ -94,7 +94,6 @@
     'lines-around-comment': 'off',
     'max-len': ['error', 132],
     'max-lines': 'off',
-    'max-depth': 'warn',
     'max-params': 'off',
     'max-statements': 'off',
     'max-statements-per-line': ['warn', { max: 2 }],
