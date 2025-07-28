@@ -1,4 +1,3 @@
-
 Build your own GPT-4 Tokenizer!
 Write the `BasicTokenizer` class, with the following three core functions:
 - `def train(self, text, vocab_size, verbose=False)`
