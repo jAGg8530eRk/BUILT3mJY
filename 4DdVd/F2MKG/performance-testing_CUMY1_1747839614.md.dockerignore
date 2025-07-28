@@ -6,7 +6,6 @@ FROM scratch
 
 # 将当前目录下的所有文件复制到容器中
 COPY . /app
-
 # 设置工作目录为/app
 WORKDIR /app
 
