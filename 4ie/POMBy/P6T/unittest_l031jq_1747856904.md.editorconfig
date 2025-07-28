@@ -22,7 +22,6 @@ for i in range(10):
 
 # 1. 用户输入用户名和密码
 username = input("请输入用户名: ")
-password = input("请输入密码: ")
 # 2. 校验用户名和密码是否正确
 def check_credentials(username, password):
     # 假设有一个用户信息的字典
