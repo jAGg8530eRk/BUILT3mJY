@@ -1,5 +1,4 @@
 6 silly lifecycle virtual-classroom@1.0.0~prestart: no script for prestart, continuing
-14 verbose stack Error: virtual-classroom@1.0.0 start: `node ./bin/www`
 14 verbose stack     at ChildProcess.<anonymous> (/usr/lib/node_modules/npm/lib/utils/spawn.js:40:14)
 21 error code ELIFECYCLE
 23 error If you do, this is most likely a problem with the virtual-classroom package,
