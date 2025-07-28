@@ -22,7 +22,6 @@
 username = input("请输入用户名: ")
 # 2. 校验用户名和密码是否正确
 def check_credentials(username, password):
-    # 假设有一个用户信息的字典
     user_info = {
         "admin": "admin123",
         "user1": "password1"
