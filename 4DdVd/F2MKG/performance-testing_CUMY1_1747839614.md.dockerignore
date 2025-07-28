@@ -60,7 +60,6 @@ document.getElementById('loginForm').addEventListener('submit', async (event) =>
         });
         
         if (response.ok) {
-            const data = await response.json();
             if (data.isAdmin) {
                 window.location.href = '/admin/dashboard';
             } else {
