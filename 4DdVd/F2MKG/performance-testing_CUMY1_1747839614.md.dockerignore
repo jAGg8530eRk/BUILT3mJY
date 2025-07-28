@@ -84,4 +84,3 @@ def quicksort(arr):
 # 示例用法
 arr = [3, 6, 8, 10, 1, 2, 1]
 sorted_arr = quicksort(arr)
-```
