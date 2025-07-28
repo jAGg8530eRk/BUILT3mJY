@@ -4,7 +4,6 @@
 ```python
 # 假设原始代码如下：
 # for i in range(10):
-#     if i % 2 == 0:
 #         print(i)
 
 # 优化后的代码：
