@@ -32,7 +32,6 @@ def check_credentials(username, password):
     if username in user_info and user_info[username] == password:
         return True
     else:
-        return False
 
 # 3. 根据校验结果进行相应操作
 if check_credentials(username, password):
