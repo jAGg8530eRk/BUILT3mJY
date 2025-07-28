@@ -29,7 +29,6 @@ flutter:
   # in this "flutter" section. Each entry in this list should have a
   # example:
   #   - family: Schyler
-  #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #     fonts:
