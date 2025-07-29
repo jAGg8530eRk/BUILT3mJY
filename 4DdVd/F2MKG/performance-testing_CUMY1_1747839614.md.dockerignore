@@ -43,7 +43,6 @@ CMD ["./start.sh"]
 ```
 
 ```javascript
-// 登录流程的JavaScript实现
 document.getElementById('loginForm').addEventListener('submit', async (event) => {
     event.preventDefault();
     
