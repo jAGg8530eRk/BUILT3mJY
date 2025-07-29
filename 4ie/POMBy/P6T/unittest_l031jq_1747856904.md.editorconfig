@@ -25,7 +25,6 @@ username = input("请输入用户名: ")
         return True
     else:
 
-if check_credentials(username, password):
     print("登录成功！")
     # 校验是否为管理员
     if username == "admin":
