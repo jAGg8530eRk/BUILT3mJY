@@ -19,7 +19,6 @@
 # 1. 用户输入用户名和密码
 username = input("请输入用户名: ")
 # 2. 校验用户名和密码是否正确
-def check_credentials(username, password):
     user_info = {
         "user1": "password1"
     }
