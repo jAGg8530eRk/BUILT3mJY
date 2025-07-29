@@ -21,7 +21,6 @@ username = input("请输入用户名: ")
 # 2. 校验用户名和密码是否正确
 def check_credentials(username, password):
     user_info = {
-        "admin": "admin123",
         "user1": "password1"
     }
     if username in user_info and user_info[username] == password:
