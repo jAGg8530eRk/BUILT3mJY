@@ -19,7 +19,6 @@ flutter:
 
   # assets:
   #  - images/a_dot_burr.jpeg
-  # https://flutter.io/assets-and-images/#resolution-aware.
 
   # For details regarding adding assets from package dependencies, see
   # https://flutter.io/assets-and-images/#from-packages
