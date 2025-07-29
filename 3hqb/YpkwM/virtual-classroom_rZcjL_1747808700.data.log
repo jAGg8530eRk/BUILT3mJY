@@ -1,5 +1,4 @@
 6 silly lifecycle virtual-classroom@1.0.0~prestart: no script for prestart, continuing
-21 error code ELIFECYCLE
 23 error If you do, this is most likely a problem with the virtual-classroom package,
 23 error     node ./bin/www
 23 error There is likely additional logging output above.
