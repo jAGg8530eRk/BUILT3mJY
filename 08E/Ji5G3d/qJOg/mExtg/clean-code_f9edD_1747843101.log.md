@@ -4,7 +4,6 @@ Write the `BasicTokenizer` class, with the following three core functions:
 - `def encode(self, text)`
 
 Train your tokenizer on whatever text you like and visualize the merged tokens. Do they look reasonable? One default test you may wish to use is the text file `tests/taylorswift.txt`.
-
 ### Step 2
 
 ```
